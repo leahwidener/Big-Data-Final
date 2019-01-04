@@ -1,4 +1,4 @@
-CustomerID,Title,FirstName,MiddleName,LastName,Suffix,AddressLine1,AddressLine2,City,StateProvinceName,CountryRegionName,PostalCode,PhoneNumber,BirthDate,Education,Occupation,Gender,MaritalStatus,HomeOwnerFlag,NumberCarsOwned,NumberChildrenAtHome,TotalChildren,YearlyIncome,FixingProbs1,FixingProbs2
+CustomerID,Title,FirstName,MiddleName,LastName,Suffix,AddressLine1,AddressLine2,City,StateProvinceName,CountryRegionName,PostalCode,PhoneNumber,BirthDate,Education,Occupation,Gender,MaritalStatus,HomeOwnerFlag,NumberCarsOwned,NumberChildrenAtHome,TotalChildren,YearlyIncome,BikeBuyer,AveMonthSpend
 18988,,Courtney,A,Baker,,8727 Buena Vista Ave.,,Fremont,California,United States,94536,133-555-0128,1/5/45,Bachelors ,Management,F,S,0,2,0,5,86931,0,0
 29135,,Adam,C,Allen,,3491 Cook Street,,Haney,British Columbia,Canada,V2W 1W2,252-555-0173,10/4/64,Bachelors ,Skilled Manual,M,M,1,2,2,4,100125,0,0
 12156,,Bonnie,,Raji,,359 Pleasant Hill Rd,,Burbank,California,United States,91502,409-555-0193,1/12/34,Graduate Degree,Management,F,M,1,2,0,4,103985,0,0
